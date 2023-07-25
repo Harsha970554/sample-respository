@@ -1,7 +1,6 @@
 import random
 import string 
 def code_generator(length):
-#
     code=""
     characters="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrsuvwxyz1234567890@#$%^&*"
     for _ in range(length):
